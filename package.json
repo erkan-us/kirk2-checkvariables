@@ -1,0 +1,25 @@
+{
+  "name": "kirk2-checkvariables",
+  "version": "1.0.0",
+  "description": "This is for cheking variable pakage created by Erkan Karakas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "erkan": "echo 'Benim adım Erkan'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kirk2"
+  ],
+  "author": "Erkan Karakas",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.11",
+    "nodemailer": "^6.4.6",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erkan-us/kirk2-checkvariables.git"
+  }
+}
